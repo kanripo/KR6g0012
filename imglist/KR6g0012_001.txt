@@ -1,0 +1,4 @@
+001-0304b00	T 001-0304b	buddhist/T-taisho/T85/03/T85-0304.png
+001-0304c00	T 001-0304c	buddhist/T-taisho/T85/03/T85-0304.png
+001-0305a00	T 001-0305a	buddhist/T-taisho/T85/03/T85-0305.png
+001-0305b00	T 001-0305b	buddhist/T-taisho/T85/03/T85-0305.png
