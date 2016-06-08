@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:01.115863
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:48
 #+TITLE: 涅槃經疏
 #+PROPERTY: CBETA_ID T85n2765
 #+PROPERTY: ID KR6g0012
@@ -101,7 +101,7 @@ No.2765[cf.No.375]¶
 多行。此是其智遠。從相生名相也。十相義就¶
 文易解。¶
 
-憍陳如品
+* 憍陳如品
 :PROPERTIES:
 :head: 憍陳如品
 :END:
