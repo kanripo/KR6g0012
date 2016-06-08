@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:04:01.115863
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:48
 #+TITLE: 涅槃經疏
 #+PROPERTY: CBETA_ID T85n2765
 #+PROPERTY: ID KR6g0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2765
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0012_T_000-0304a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0012_T_001-0304a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2765[cf.No.375]¶
-
- 涅槃經疏¶
+No. 2765 [cf. No. 375]¶
+涅槃經疏¶
 ¶
 
 得理踰明除身口意十惡名觸。三業淨得正¶
@@ -101,11 +100,7 @@ No.2765[cf.No.375]¶
 多行。此是其智遠。從相生名相也。十相義就¶
 文易解。¶
 
-憍陳如品
-:PROPERTIES:
-:head: 憍陳如品
-:END:
-¶
+* 憍陳如品¶
 
 此品經師解言。前之二品勸人修道。既有修¶
 道為畢得果。是故憍陳如一品意在流通故¶
